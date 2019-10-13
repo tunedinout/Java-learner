@@ -5,7 +5,7 @@ Topics : Data types, OOP
 
 NOTE : 
 1. Explain the output of below programs . If there is a compilation error mention the line causing compiler error and add corrected code and then Explain the output.
-2. Create another Ans1.md file and write all corrected code and answers
+2. Create another Ans1.txt file and write all corrected code and answers
 3. Code below has been executed and tested, however there can be some intentional errors.
  
 
